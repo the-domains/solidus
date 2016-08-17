@@ -1,0 +1,28 @@
+name: solidus
+favicon: null
+layout_spectrum: 0.6365460699889809
+typography_spectrum: 0.9721245504915714
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5382478672545403
+  lightness: 0.708062113262713
+  saturation: 0.35428244178183377
+  rhythmicContrast: 0.8373155002482235
+purpose: []
